@@ -1,7 +1,7 @@
 {
-    "name": "my-awesome-project",
+    "name": "testim-my-awesome-project",
     "version": "0.1.0",
-    "description": "https://help.testim.io/docs/",
+    "description": "https://help.testim.io/docs/ examples",
     "dependencies": {
         "testim": "latest",
         "@testim/testim-cli": "latest",
